@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="0AD5639C-46A8-4A65-8184-93259D564015">
+  <lastEdited clientType="local-build-20140515" date="2014-05-16 04:42:50 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Living Creatively</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>A New Hope Screensaver</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Aug 16, 2006</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_A_New_Hope_Screensaver_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>It is a period of civil war, Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. Now join the battle at Yavin as the Rebelion attempts to destory the Death Star...&#xD;&#xD;Compatible with OS X 10.6 or later</richText>
+  </textBox>
+</content>

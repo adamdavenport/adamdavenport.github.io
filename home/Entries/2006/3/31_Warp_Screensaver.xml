@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="0AD5639C-46A8-4A65-8184-93259D564015">
+  <lastEdited clientType="local-build-20140515" date="2014-05-16 04:42:51 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Living Creatively</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Warp Screensaver</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Mar 31, 2006</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_Warp_Screensaver_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Fly through the universe at warp speed, very similar to traditional warp-like screensavers.&#xD;Speed, Star Density, Star Color, and Field of View all customizable!&#xD;&#xD;Compatible with OS X 10.6 or later</richText>
+  </textBox>
+</content>

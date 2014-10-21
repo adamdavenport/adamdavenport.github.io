@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>home</title>
+    <link>file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home</link>
+    <description>Living and working around technology should improve life, not make it more complicated.  &#13;
+That&#x2019;s our goal. </description>
+    <item>
+      <title>MacLoc</title>
+      <link>file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2014/1/15_MacLoc.html</link>
+      <guid isPermaLink="false">840d3eef-c4bd-4722-a3da-941ca27de533</guid>
+      <pubDate>Wed, 15 Jan 2014 00:29:56 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2014/1/15_MacLoc.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Binary Earth Screensaver</title>
+      <link>file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2013/12/22_Binary_Earth_Screensaver.html</link>
+      <guid isPermaLink="false">80e74f9d-1d1d-4c74-815c-d2b8a92f36af</guid>
+      <pubDate>Sun, 22 Dec 2013 00:00:08 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2013/12/22_Binary_Earth_Screensaver.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Trench Run Screensaver</title>
+      <link>file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2006/8/16_Trench_Run_Screensaver.html</link>
+      <guid isPermaLink="false">f34bf53c-0df9-48ef-9cea-716895cc0af6</guid>
+      <pubDate>Wed, 16 Aug 2006 00:00:08 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2006/8/16_Trench_Run_Screensaver.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>A New Hope Screensaver</title>
+      <link>file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2006/8/16_A_New_Hope_Screensaver.html</link>
+      <guid isPermaLink="false">10e67c62-54d9-4005-9d3f-4eb7c6011b76</guid>
+      <pubDate>Wed, 16 Aug 2006 00:00:00 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2006/8/16_A_New_Hope_Screensaver.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Warp Screensaver</title>
+      <link>file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2006/3/31_Warp_Screensaver.html</link>
+      <guid isPermaLink="false">4c522088-f68a-4ddf-9dc1-b258a37f9866</guid>
+      <pubDate>Fri, 31 Mar 2006 00:00:53 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home/Entries/2006/3/31_Warp_Screensaver.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>MMM d, y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/Adam/Dropbox/Apps/Pancake.io/ourapples/ourapples/home</iweb:baseURL>
+    <iweb:maximumSummaryItems>3</iweb:maximumSummaryItems>
+  </channel>
+</rss>

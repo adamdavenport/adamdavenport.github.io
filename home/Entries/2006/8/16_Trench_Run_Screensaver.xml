@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="0AD5639C-46A8-4A65-8184-93259D564015">
+  <lastEdited clientType="local-build-20140515" date="2014-05-16 04:42:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Living Creatively</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Trench Run Screensaver</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Aug 16, 2006</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Trench_Run_Screensaver_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This is a rendering of the epic X-Wing and a TIE Fighter chase down the trench of the Death Star from the original Star Wars! This is an excerpt from the &#x201C;A New Hope&#x201D; screen saver which depicts a greater portion of the battle at Yavin where the Rebellion fights to destroy the dreaded Dearth Star.&#xD;&#xD;Compatible with OS X 10.6 or later</richText>
+  </textBox>
+</content>

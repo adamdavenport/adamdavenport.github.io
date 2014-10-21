@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="0AD5639C-46A8-4A65-8184-93259D564015">
+  <lastEdited clientType="local-build-20140515" date="2014-05-16 04:42:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Living Creatively</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Binary Earth Screensaver</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Dec 22, 2013</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Binary_Earth_Screensaver_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Inspired by a futuristic movie trilogy which will remain unnamed as to not infringe upon any copyright issues with those who hold the rights to the films. Let us just say the if we were to use a numerical Matrix combining the directional vectors of a moving object with inertial forces, which may need to be Reloaded into the system, the result would show a graphical analysis of the total Revolutions of the body in motion.&#xD;&#xD;Compatible with OS X 10.6 or later</richText>
+  </textBox>
+</content>
